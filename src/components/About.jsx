@@ -12,7 +12,7 @@ export default function About() {
           </h1>
           <p className="mb-8 leading-relaxed">
             I am in software development because I want to bring value to
-            people's lives by creating software that makes their lives easier.
+            people by creating software that makes their lives easier.
           </p>
           <div className="flex justify-center">
             <a
