@@ -52,8 +52,9 @@ export const testimonials = [
 
 export const skills = [
   "JavaScript",
-  "React",
-  "Next.js",
+  "C++",
+  "RubyOnRails",
+  "React.js",
   "Node.js",
   "PostgreSQL",
   "Bootstrap",
