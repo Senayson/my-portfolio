@@ -14,7 +14,7 @@ export default function About() {
             I am in software development because I want to bring value to
             people by creating software that makes their lives easier.
           </p>
-          <div className="flex justify-center">
+          {/* <div className="flex justify-center">
             <a
               href="#contact"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
@@ -25,7 +25,7 @@ export default function About() {
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
               See My Projects
             </a>
-          </div>
+          </div> */}
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
