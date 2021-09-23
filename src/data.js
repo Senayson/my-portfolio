@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "RubyOnRails framework",
     description:
       "An e-commerce app where a user can Signup/Login and purchase items",
-    image: "./project-3.gif",
+    image: "./jungle.gif",
     link: "https://github.com/Senayson/Jungle-rails",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "HTML,CSS, JS, Express, Postgresql",
     description:
       "An airbnb clone where users list their real-estate and also be clients and reserve other listings",
-    image: "./project-4.gif",
+    image: "./lightBnB.gif",
     link: "https://github.com/Senayson/LightBnB",
   },
 ];
@@ -37,6 +37,8 @@ export const projects = [
 export const skills = [
   "JavaScript",
   "Node.js",
+  "Reactjs",
+  "Express.js",
   "C++",
   "RubyOnRails",
   "React-Redux",
