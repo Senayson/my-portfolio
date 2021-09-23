@@ -1,45 +1,48 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Tweeter",
+    subtitle: "jQuery SPA",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Tweeter is a simple, single-page Twitter clone app created using HTMl, CSS, JS, jQuery and AJAX on the front-end; and Node, Express and MongoDB on the back-end",
+    image: "./tweeter.gif",
+    link: "https://github.com/Senayson/tweeter",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Scheduler",
+    subtitle: "React SPA",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "The Interview Scheduler app is a react app designed to enable a user to book an appointment, cancel an appointment and edit an appointment with an available interviewer.",
+    image: "./scheduler.gif",
+    link: "https://github.com/Senayson/scheduler",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Jungle",
+    subtitle: "RubyOnRails framework",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "An e-commerce app where a user can Signup/Login and purchase items",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/Senayson/Jungle-rails",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "LightBnB",
+    subtitle: "HTML,CSS, JS, Express, Postgresql",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "An airbnb clone where users list their real-estate and also be clients and reserve other listings",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/Senayson/LightBnB",
   },
 ];
 
 
 export const skills = [
   "JavaScript",
+  "Node.js",
   "C++",
   "RubyOnRails",
-  "React.js",
-  "Node.js",
+  "React-Redux",
   "PostgreSQL",
   "Bootstrap",
+  "SASS",
+  "jQuery",
+  "EJS"
 ];
