@@ -13,7 +13,7 @@ export const projects = [
     description:
       "The Interview Scheduler app is a react app designed to enable a user to book an appointment, cancel an appointment and edit an appointment with an available interviewer.",
     image: "./scheduler.gif",
-    link: "https://github.com/Senayson/scheduler",
+    link: "https://61c99906b5f4a2f4f36c7e0b--jovial-goodall-a35eb8.netlify.app",
   },
   {
     title: "Jungle",
