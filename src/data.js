@@ -22,15 +22,7 @@ export const projects = [
       "An e-commerce app where a user can Signup/Login and purchase items",
     image: "./jungle.gif",
     link: "https://github.com/Senayson/Jungle-rails",
-  },
-  // {
-  //   title: "LightBnB",
-  //   subtitle: "HTML,CSS, JS, Express, Postgresql",
-  //   description:
-  //     "An airbnb clone where users list their real-estate and also be clients and reserve other listings",
-  //   image: "./lightBnB.gif",
-  //   link: "https://github.com/Senayson/LightBnB",
-  // },
+  }
 ];
 
 
