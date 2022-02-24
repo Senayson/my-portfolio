@@ -8,11 +8,10 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, My name is Senay.
             <br className="hidden lg:inline-block" />
-            Junior Software Developer, I am.
+            I am a software developer.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I am in software development because I want to bring value to
-            people by creating software that makes their lives easier.
+            I am in software development because I aspire to bring value to people by creating products that have meaningful impact in their daily lives.
           </p>
           {/* <div className="flex justify-center">
             <a
