@@ -13,7 +13,7 @@ export default function Projects() {
           </h1>
           
         </div>
-        <div className="flex flex-wrap -m-4">
+        <div className="flex flex-wrap flex-col items-center auto-cols-max ">
           {projects.map((project) => (
             <a
               href={project.link}

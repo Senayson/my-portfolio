@@ -3,7 +3,7 @@ export const projects = [
     title: "Tweeter",
     subtitle: "jQuery SPA",
     description:
-      "Tweeter is a simple, single-page Twitter clone app created using HTMl, CSS, JS, jQuery and AJAX on the front-end; and Node, Express and MongoDB on the back-end",
+      "Tweeter is a simple, single-page Twitter clone app created using HTML, CSS, JS, jQuery and AJAX on the front-end; and Node, Express and MongoDB on the back-end",
     image: "./tweeter.gif",
     link: "https://github.com/Senayson/tweeter",
   },
@@ -19,7 +19,7 @@ export const projects = [
     title: "Jungle",
     subtitle: "RubyOnRails framework",
     description:
-      "An e-commerce app where a user can Signup/Login and purchase items",
+      "An e-commerce app where a user can create an account and purchase items",
     image: "./jungle.gif",
     link: "https://github.com/Senayson/Jungle-rails",
   }
